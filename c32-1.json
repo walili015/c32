@@ -15,14 +15,14 @@
     "UnityBanner": "Banner_Android",
     "UnityInterstitial": "Interstitial_Android",
 
-    "imggame1": "https://cdnb.artstation.com/p/assets/images/images/062/578/077/large/paula-valiente-amanda-the-adventurer-redi.jpg",
-    "urlgame1": "https://play.google.com/store/apps/details?id=com.HdWallpaper.PhoenixWallpaper",
+    "imggame1": "",
+    "urlgame1": "",
 
-    "imggame2": "https://amandatheadventurergame.io//data/image/game/amanda-the-adventurer-feature-image.jpg",
-    "urlgame2": "https://play.google.com/store/apps/details?id=com.Hdwallpaper.aesthetic.aesthetic_wallpaper",
+    "imggame2": "",
+    "urlgame2": "",
 
-    "imggame3": "https://amandatheadventurergame.io//data/image/game/amanda-the-adventurer-feature-image.jpg",
-    "urlgame3": "https://play.google.com/store/apps/details?id=com.Hdwallpaper.aesthetic.aesthetic_wallpaper",
+    "imggame3": "",
+    "urlgame3": "",
 
     "RatingActive": true,
     "ads_mode": true

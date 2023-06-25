@@ -17,6 +17,6 @@
     "imggame3": "imagepng1",
     "urlgame3": "urlgame1",
     "RatingActive": true,
-    "ads_mode": true
+    "ads_mode": false
   }
 }

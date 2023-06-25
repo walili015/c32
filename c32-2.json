@@ -4,27 +4,19 @@
     "AdmobBanner": "",
     "AdmobInterstitial": "",
     "AdmobNative": "",
-
     "ApplovinBanner": "Banner1111",
-
     "ApplovinInterstitial": "22222Inter",
-
     "ApplovinNative": "Native33333",
-
     "UnityGameID": "4848007",
     "UnityBanner": "Banner_Android",
     "UnityInterstitial": "Interstitial_Android",
-
     "imggame1": "imagepng1",
     "urlgame1": "urlgame1",
-
     "imggame2": "imagepng1",
     "urlgame2": "urlgame1",
-
     "imggame3": "imagepng1",
     "urlgame3": "urlgame1",
-
-    "RatingActive": true,
-    "ads_mode": true
+    "ads_mode": true,
+    "RatingActive": true
   }
 }

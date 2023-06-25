@@ -10,12 +10,12 @@
     "UnityGameID": "4848007",
     "UnityBanner": "Banner_Android",
     "UnityInterstitial": "Interstitial_Android",
-    "imggame1": "imagepng1",
-    "urlgame1": "urlgame1",
-    "imggame2": "imagepng1",
-    "urlgame2": "urlgame1",
-    "imggame3": "imagepng1",
-    "urlgame3": "urlgame1",
+    "imggame1": "https://gregarious-ganache-dc9dab.netlify.app/c31-3.png",
+    "urlgame1": "https://play.google.com/store/apps/details?id=com.tocaboca_love.tocalifebocalovestories",
+    "imggame2": "https://gregarious-ganache-dc9dab.netlify.app/c31-4.png",
+    "urlgame2": "https://play.google.com/store/apps/details?id=com.skibiditoilet_tocaboca.skibidi_series",
+    "imggame3": "https://gregarious-ganache-dc9dab.netlify.app/c31-5.png",
+    "urlgame3": "https://play.google.com/store/apps/details?id=com.toca_horror_nights_spooky_shorts.toca_boca_life_world_videos",
     "ads_mode": false,
     "RatingActive": true
   }

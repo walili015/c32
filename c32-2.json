@@ -16,7 +16,7 @@
     "urlgame2": "https://play.google.com/store/apps/details?id=com.skibiditoilet_tocaboca.skibidi_series",
     "imggame3": "https://gregarious-ganache-dc9dab.netlify.app/c31-5.png",
     "urlgame3": "https://play.google.com/store/apps/details?id=com.toca_horror_nights_spooky_shorts.toca_boca_life_world_videos",
-    "ads_mode": true,
+    "ads_mode": false,
     "RatingActive": true
   }
 }

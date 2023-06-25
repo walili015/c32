@@ -4,27 +4,19 @@
     "AdmobBanner": "",
     "AdmobInterstitial": "",
     "AdmobNative": "",
-
-    "ApplovinBanner": "Banner1111",
-
-    "ApplovinInterstitial": "22222Inter",
-
-    "ApplovinNative": "Native33333",
-
+    "ApplovinBanner": "e561ab24d31014cb",
+    "ApplovinInterstitial": "3624fbab9906889e",
+    "ApplovinNative": "2cb3cebccd01809f",
     "UnityGameID": "4848007",
     "UnityBanner": "Banner_Android",
     "UnityInterstitial": "Interstitial_Android",
-
-    "imggame1": "imagepng1",
-    "urlgame1": "urlgame1",
-
-    "imggame2": "imagepng1",
-    "urlgame2": "urlgame1",
-
-    "imggame3": "imagepng1",
-    "urlgame3": "urlgame1",
-
+    "imggame1": "https://gregarious-ganache-dc9dab.netlify.app/c31-2.png",
+    "urlgame1": "https://play.google.com/store/apps/details?id=com.elionstudio.tocaboca_mermaid_shorts",
+    "imggame2": "https://gregarious-ganache-dc9dab.netlify.app/c31-4.png",
+    "urlgame2": "https://play.google.com/store/apps/details?id=com.skibiditoilet_tocaboca.skibidi_series",
+    "imggame3": "https://gregarious-ganache-dc9dab.netlify.app/c31-3.png",
+    "urlgame3": "https://play.google.com/store/apps/details?id=com.tocaboca_love.tocalifebocalovestories",
     "RatingActive": true,
-    "ads_mode": true
+    "ads_mode": false
   }
 }

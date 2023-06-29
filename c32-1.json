@@ -15,14 +15,14 @@
     "UnityBanner": "Banner_Android",
     "UnityInterstitial": "Interstitial_Android",
 
-    "imggame1": "",
-    "urlgame1": "",
+    "imggame1": "https://c31.netlify.app/c31-3.png",
+    "urlgame1": "https://play.google.com/store/apps/details?id=com.tocaboca_love.tocalifebocalovestories",
 
-    "imggame2": "",
-    "urlgame2": "",
+    "imggame2": "https://c31.netlify.app/c31-4.png",
+    "urlgame2": "https://play.google.com/store/apps/details?id=com.skibiditoilet_tocaboca.skibidi_series",
 
-    "imggame3": "",
-    "urlgame3": "",
+    "imggame3": "https://c31.netlify.app/c31-5.png",
+    "urlgame3": "https://play.google.com/store/apps/details?id=com.toca_horror_nights_spooky_shorts.toca_boca_life_world_videos",
 
     "RatingActive": true,
     "ads_mode": false

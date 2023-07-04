@@ -14,15 +14,15 @@
     "UnityGameID": "4848007",
     "UnityBanner": "Banner_Android",
     "UnityInterstitial": "Interstitial_Android",
+    
+    "imggame1": "https://c31.netlify.app/c31-xx.png",
+    "urlgame1": "https://play.google.com/store/apps/details?id=",
 
-    "imggame1": "imagepng1",
-    "urlgame1": "urlgame1",
+    "imggame2": "https://c31.netlify.app/c31-xx.png",
+    "urlgame2": "https://play.google.com/store/apps/details?id=",
 
-    "imggame2": "imagepng1",
-    "urlgame2": "urlgame1",
-
-    "imggame3": "imagepng1",
-    "urlgame3": "urlgame1",
+    "imggame3": "https://c31.netlify.app/c31-xx.png",
+    "urlgame3": "https://play.google.com/store/apps/details?id=",
 
     "RatingActive": true,
     "ads_mode": true

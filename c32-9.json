@@ -1,29 +1,21 @@
 {
   "AdsManager": {
-    "AdNetwork": "admob",
+    "AdNetwork": "applovin",
     "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
     "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-
     "ApplovinBanner": "ecd66e32157c15f1",
-
     "ApplovinInterstitial": "395d52bdefdf8367",
-
     "ApplovinNative": "f0309097098cce0e",
-
     "UnityGameID": "4848007",
     "UnityBanner": "Banner_Android",
     "UnityInterstitial": "Interstitial_Android",
-
     "imggame1": "https://c31.netlify.app/c31-6.png",
     "urlgame1": "https://play.google.com/store/apps/details?id=com.pizzatower.peppinopizza.peppino_pizza_tower_shorts",
-
     "imggame2": "https://c31.netlify.app/c31-7.png",
     "urlgame2": "https://play.google.com/store/apps/details?id=com.tocabocalife.toca_life.toca_boca_poor_stories",
-
     "imggame3": "https://c31.netlify.app/c31-8.png",
     "urlgame3": "https://play.google.com/store/apps/details?id=com.tocaboca_life.toca_life.toca_skibidi_wednesday_addams_shorts",
-
     "RatingActive": true,
     "ads_mode": true
   }

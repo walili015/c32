@@ -1,22 +1,22 @@
 {
   "AdsManager": {
     "AdNetwork": "applovin",
-    "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
-    "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+    "AdmobBanner": "",
+    "AdmobInterstitial": "",
+    "AdmobNative": "",
     "ApplovinBanner": "1e784a02adfc38ad",
     "ApplovinInterstitial": "04ffd7c519272f77",
     "ApplovinNative": "b26ca93ef364c232",
     "UnityGameID": "4848007",
     "UnityBanner": "Banner_Android",
     "UnityInterstitial": "Interstitial_Android",
-    "imggame1": "https://c31.netlify.app/c32-6.png",
-    "urlgame1": "https://play.google.com/store/apps/details?id=com.red_imposted.among.crime.scene",
+    "imggame1": "https://gregarious-ganache-dc9dab.netlify.app/c31-2.png",
+    "urlgame1": "https://play.google.com/store/apps/details?id=com.elionstudio.tocaboca_mermaid_shorts",
     "imggame2": "https://c31.netlify.app/c31-8.png",
     "urlgame2": "https://play.google.com/store/apps/details?id=com.tocaboca_life.toca_life.toca_skibidi_wednesday_addams_shorts",
     "imggame3": "https://c31.netlify.app/c31-9.png",
     "urlgame3": "https://play.google.com/store/apps/details?id=com.tocaboca.toca_life.boca_toca_sad_stories",
-    "RatingActive": true,
-    "ads_mode": true
+    "ads_mode": true,
+    "RatingActive": true
   }
 }
